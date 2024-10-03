@@ -16,7 +16,7 @@ This folder contains the raw data, survey responses, and analysis files used for
   - `Biggest Pain Points`: Common issues faced while shopping online.
   - `Suggestions for Improvement`: User feedback on how platforms like Meesho can improve.
 
-### 2. `swot_analysis.pdf`
+### 2. `swot_analysis.xlsx`
 - **Description**: This file presents the SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis of Meesho, specifically tailored to the Tier 1 city market. This document is based on the survey data and market research.
 - **Key Insights**:
   - Strengths: Meesho’s large user base and affordable platform.
